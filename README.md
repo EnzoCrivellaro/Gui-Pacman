@@ -9,4 +9,4 @@ João Leão de Campos Andrade
 
 Andre de Mendonca Quiterio
 
-## O python notebook inserido aqui, quando executado, cria com ajuda do módulo turtle uma interface gráfica para o jogo Pacman.
+### O python notebook inserido aqui, quando executado, cria com ajuda do módulo turtle uma interface gráfica para o jogo Pacman.
